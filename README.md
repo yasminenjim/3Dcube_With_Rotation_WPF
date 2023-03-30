@@ -1,5 +1,5 @@
 # 3Dcube_With_Rotation_WPF
-This application is for a creation of a 3D cube with a X axis Rotation. 
+This application is for a creation of a 3D cube with a X axis Rotation
 
 
 
